@@ -1,4 +1,4 @@
-PyScriptDE
+PyScriptDE v0.1
 ==========
 Author: Todd Thompson, CS Dept - UT Dallas
 Contact: todd.thompson@utdallas.edu
